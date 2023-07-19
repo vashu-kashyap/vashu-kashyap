@@ -21,8 +21,7 @@ Hi, I am Vashu Kashyap and I live in Delhi (India). <br>I describe myself as a p
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vashu-kashyap&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vashu-kashyap&icon=0&color=0)](https://visitcount.itsvg.in)
