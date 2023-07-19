@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Vashu Kashyap and I live in Delhi (India). <br>I describe myself as a passionate Web Developer who loves coding and using the open-source library.<br> In my free time, I watch coding tutorial videos on youtube and online surfing about coding. <br>That helps me to learn new skills(like - Html, CSS, Javascript and Tailwind CSS) and grow as a Web Developer. <br>I want to become a great Full Stack Developer.
+Hi, I am Vashu Kashyap and I live in Delhi (India). <br>I describe myself as a passionate Web Developer who loves coding and using the open-source library.<br> In my free time, I watch coding tutorial videos on youtube and online surfing about coding. <br>That helps me to learn new skills(like - Html, CSS, Javascript, Tailwind CSS), React and Sass and grow as a Web Developer. <br>I want to become a great Full Stack Developer.
 
 
 ## 🌐 Socials:
